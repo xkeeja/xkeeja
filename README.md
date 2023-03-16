@@ -48,7 +48,7 @@
 
 ***
 
-| <a href="https://github.com/xkeeja"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xkeeja&count_private=true&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="xkeeja" /></a> | <a href="https://github.com/xkeeja"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkeeja&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="xkeeja" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xkeeja&count_private=true&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="xkeeja" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkeeja&show_icons=true&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="xkeeja" /></a> |
 | ------------- | ------------- |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkeeja&label=Profile%20views&color=0e75b6&style=flat" alt="xkeeja" /> </p>
