@@ -13,7 +13,7 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="30" height="30"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="30" height="30"/> </a> 
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="30" height="30"/> </a> 
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="30" height="30"/> </a> 
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="30" height="30"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a> 
   <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="30" height="30"/> </a> 
